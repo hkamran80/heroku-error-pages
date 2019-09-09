@@ -5,3 +5,5 @@ These error pages have the Heroku logo removed and the message trimmed for stand
 * `application-error.html`
 	* Title: `Application Error`
 	* Message: `An error occurred in the application and the page could not be served. Please contact the website administrator.`
+	* Notes:
+		* Still has the Heroku favicon. If anyone has a good error-page favicon, please add it!
